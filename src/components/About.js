@@ -27,7 +27,7 @@ export default function About() {
             </div>
             <div className="lg:max-w-lg lg:w-full md:w-1/2 w-5/6">
               <img
-                className="@apply rounded-[50%]"
+                className="object-cover object-center rounded @apply rounded-[50%]"
                 alt="hero"
                 src="../../public/Carla.svg"
               />
